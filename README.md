@@ -1,4 +1,4 @@
-Game Explanation: Last Player Standing
+# Game Explanation: Last Player Standing #
 This is a simple Python game where four players (a, b, c, and d) compete in a turn-based elimination challenge. Each player starts with a set of numbers (1 to 5), and the goal is to survive until the end or be the last player remaining when other players lose all their chances.
 
 Game Rules:
